@@ -1,0 +1,2 @@
+selenium
+chromedriver_binary==84.0.4147.30
